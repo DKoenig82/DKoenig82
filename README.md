@@ -2,7 +2,7 @@
 
 Hey 👋🏼,
 
-my name is David, I am a passionate self taught iOS & macOS Developer form Germany 🇩🇪. My interests are to develop and write about Swift Development. (I am in Apple Development for around 5 years.)
+my name is David, I am a passionate self taught iOS & macOS Developer from Germany 🇩🇪. My interests are to develop and write about Swift Development. (I am in Apple Development for around 5 years.)
 
 🌿 Me on Github
 ---
