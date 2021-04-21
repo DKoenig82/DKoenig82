@@ -15,7 +15,7 @@ At this point of time I am at the beginning to use Git and Github. I want to lea
 ---
 - Twitter: [https://twitter.com/DKoenig82/](https://twitter.com/DKoenig82/)
 - Medium: [https://medium.com/@DKoenig](https://medium.com/@DKoenig)
-- Blog: [https://davidsblog.tech](https://davidsblog.tech)
+- Blog: [https://swiftuniverse.de](https://swiftuniverse.de)
 - Web: [https://www.davidkoenig.de](https://www.davidkoenig.de)
 - LinkedIn: [https://de.linkedin.com/in/dkoenig82](https://de.linkedin.com/in/dkoenig82)
 
