@@ -2,7 +2,7 @@
 
 Hey 👋🏼,
 
-my name is David, I am a passionate self taught iOS & macOS Developer from Germany 🇩🇪. My interests are to develop and write about Swift Development. (I am in Apple Development for around 5 years.)
+my name is David, I am a passionate self taught iOS & macOS Developer from Germany 🇩🇪. My interests are to develop and write about Swift Development.
 
 🌿 Me on Github
 ---
@@ -13,9 +13,9 @@ At this point of time I am at the beginning to use Git and Github. I want to lea
 
 📬 Get in touch
 ---
-- Twitter: [https://twitter.com/DKoenig82/](https://twitter.com/DKoenig82/)
-- Medium: [https://medium.com/@DKoenig](https://medium.com/@DKoenig)
-- Blog: [https://swiftuniverse.de](https://swiftuniverse.de)
+- Twitter: [https://twitter.com/davidkoenig_dev/](https://twitter.com/davidkoenig_dev/)
+- Medium: [https://dkoenig.medium.com](https://dkoenig.medium.com)
+- Blog: [https://davidsincubator.com](https://davidsincubator.com)
 - Web: [https://www.davidkoenig.de](https://www.davidkoenig.de)
 - LinkedIn: [https://de.linkedin.com/in/dkoenig82](https://de.linkedin.com/in/dkoenig82)
 
