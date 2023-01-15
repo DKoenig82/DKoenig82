@@ -13,7 +13,7 @@ At this point of time I am at the beginning to use Git and Github. I want to lea
 
 📬 Get in touch
 ---
-- Twitter: [https://twitter.com/davidkoenig_dev/](https://twitter.com/davidkoenig_dev/)
+- Mastodon: [https://mstdn.social/@davidkoenig_dev](https://mstdn.social/@davidkoenig_dev)
 - Medium: [https://dkoenig.medium.com](https://dkoenig.medium.com)
 - Blog: [https://davidsincubator.com](https://davidsincubator.com)
 - Web: [https://www.davidkoenig.de](https://www.davidkoenig.de)
