@@ -15,7 +15,7 @@ At this point of time I am at the beginning to use Git and Github. I want to lea
 ---
 - Mastodon: [https://mstdn.social/@davidkoenig_dev](https://mstdn.social/@davidkoenig_dev)
 - Medium: [https://dkoenig.medium.com](https://dkoenig.medium.com)
-- Blog: [https://davidsincubator.com](https://davidsincubator.com)
+- Blog: [https://davesocial.org/](https://davesocial.org/)
 - Web: [https://www.davidkoenig.de](https://www.davidkoenig.de)
 - LinkedIn: [https://de.linkedin.com/in/dkoenig82](https://de.linkedin.com/in/dkoenig82)
 
